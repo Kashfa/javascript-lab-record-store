@@ -1,7 +1,6 @@
 {
   "name": "js_recordstore_lab",
   "version": "1.0.0",
-  "description": "",
   "main": "record.js",
   "scripts": {
     "test": "mocha specs"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashfa/javascript-lab-record-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kashfa/javascript-lab-record-store/issues"
+  },
+  "homepage": "https://github.com/Kashfa/javascript-lab-record-store#readme",
+  "description": ""
 }

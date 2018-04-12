@@ -12,4 +12,19 @@ describe('Record', function() {
     const actual = record.artist;
     assert.strictEqual(actual, 'Queen');
   });
+
+  it('it should have an artist', function() {
+    const actual = record.title;
+    assert.strictEqual(actual, 'we will rock you');
+  });
+
+  it('it should have an artist', function() {
+    const actual = record.genre;
+    assert.strictEqual(actual, 'rock');
+  });
+
+  it('it should have an artist', function() {
+    const actual = record.price;
+    assert.strictEqual(actual, 10);
+  });
 });
