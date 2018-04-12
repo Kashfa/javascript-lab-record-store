@@ -1,6 +1,7 @@
 const assert = require('assert');
 const Record = require( '../record.js');
 
+
 describe('Record', function() {
   let record;
 
